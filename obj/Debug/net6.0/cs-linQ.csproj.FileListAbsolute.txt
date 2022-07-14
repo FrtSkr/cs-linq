@@ -1,0 +1,15 @@
+C:\vbt_C#\cs-linQ\bin\Debug\net6.0\cs-linQ.exe
+C:\vbt_C#\cs-linQ\bin\Debug\net6.0\cs-linQ.deps.json
+C:\vbt_C#\cs-linQ\bin\Debug\net6.0\cs-linQ.runtimeconfig.json
+C:\vbt_C#\cs-linQ\bin\Debug\net6.0\cs-linQ.dll
+C:\vbt_C#\cs-linQ\bin\Debug\net6.0\cs-linQ.pdb
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\cs-linQ.csproj.AssemblyReference.cache
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\cs-linQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\cs-linQ.AssemblyInfoInputs.cache
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\cs-linQ.AssemblyInfo.cs
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\cs-linQ.csproj.CoreCompileInputs.cache
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\cs-linQ.dll
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\refint\cs-linQ.dll
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\cs-linQ.pdb
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\cs-linQ.genruntimeconfig.cache
+C:\vbt_C#\cs-linQ\obj\Debug\net6.0\ref\cs-linQ.dll
