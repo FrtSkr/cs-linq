@@ -11,7 +11,7 @@ namespace cs_linQ
         bool IEqualityComparer<Personel>.Equals(Personel? x, Personel? y)
         {
         
-            if(x.PersonelNo == y.PersonelNo) return true;
+            if(x?.PersonelNo == y?.PersonelNo) return true;
 
             else return false;
         }
