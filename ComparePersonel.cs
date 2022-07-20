@@ -14,9 +14,9 @@ namespace cs_linQ
             //Aynıysa soyadlara göre yapacak. dİREK OrderBy içerisinde yapsaydık tüm verileri gezmemiz gerekirdi ama 
             //Bu yöntem ile sadece ilgili veri için burası kullanılacak.
             if(x?.Ad != y?.Ad){
-                return string.Compare(x.Ad, y.Ad);
+                return string.Compare(x?.Ad, y?.Ad);
             }else{
-                return string.Compare(x.Soyad, y.Soyad);
+                return string.Compare(x?.Soyad, y?.Soyad);
             }
         }
     }
